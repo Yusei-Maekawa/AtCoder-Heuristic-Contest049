@@ -2,7 +2,7 @@
 
 #　問題　
 
-[text](https://atcoder.jp/contests/ahc049/tasks/ahc049_a)
+(https://atcoder.jp/contests/ahc049/tasks/ahc049_a)
 
 
 # 考え方
